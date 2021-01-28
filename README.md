@@ -9,4 +9,4 @@
 - 👯 I’m looking to collaborate on Embedded Systems | IOT projects
 - 🤔 I’m looking for help with STM Boards | FPGAs | Drivers | GoBOT
 - 💬 Ask me about Cosmology 🌌🌟
-- 📫 How to reach me: utkarsh.chandel@stringbrane.com
+- 📫 How to reach me: insta : @utkarsh.chandel_
