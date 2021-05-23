@@ -15,5 +15,5 @@
 
 <details>
   <summary> ⚡ Languages </summary>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UtkarshcChandel&show_icons=true&locale=en&layout=compact&theme=dracula" alt="UtkarshChandel" /> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UtkarshChandel&show_icons=true&locale=en&layout=compact&theme=dracula" alt="UtkarshChandel" /> 
 </details>
