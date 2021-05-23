@@ -4,6 +4,9 @@
 **UtkarshChandel/UtkarshChandel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=UtkarshChandel&theme=dark&show_icons=true)
+
+
 - 🔭 I’m currently working on Embedded Systems and IoT
 - 🌱 I’m currently learning  Backend-Engineering | Embedded-Systems | Project-Management
 - 👯 I’m looking to collaborate on Embedded Systems | IOT projects
@@ -13,7 +16,4 @@
 
 
 
-<details>
-  <summary> ⚡ Languages </summary>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UtkarshChandel&show_icons=true&locale=en&layout=compact&theme=dracula" alt="UtkarshChandel" /> 
-</details>
+
