@@ -7,7 +7,7 @@
 ![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=UtkarshChandel&theme=graywhite&show_icons=true&hide=stars)
 
 
-- 🔭 I’m currently working on Embedded Systems and IoT
+- 🔭 I’m currently working on MAD,IOT,DevOps
 - 🌱 I’m currently learning  Backend-Engineering | Embedded-Systems | Project-Management
 - 👯 I’m looking to collaborate on Embedded Systems | IOT projects
 - 🤔 I’m looking for help with PCB Designs | Embedded Software Design
